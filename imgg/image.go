@@ -1,12 +1,12 @@
 package imgg
 
 import (
+	"github.com/dddaisuke/chart"
 	"github.com/dddaisuke/draw2d/draw2d"
 	"github.com/dddaisuke/freetype-go/freetype"
 	"github.com/dddaisuke/freetype-go/freetype/raster"
 	"github.com/dddaisuke/freetype-go/freetype/truetype"
 	"github.com/dddaisuke/graphics-go/graphics"
-	"github.com/vdobler/chart"
 	"image"
 	"image/color"
 	"image/draw"
